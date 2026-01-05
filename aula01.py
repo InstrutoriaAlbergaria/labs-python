@@ -1,5 +1,5 @@
 #Criando uma variável no Python!!
-fruta_citrica_maio = "laranja"
+fruta_citrica_maio = "morango"
 #Imprimindo a variável
 print(fruta_citrica_maio)
 
